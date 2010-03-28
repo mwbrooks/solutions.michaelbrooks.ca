@@ -1,6 +1,7 @@
 --- 
 title: Useful Bash Keys
 date: 12/03/2009
+tag: Terminal
 
 Here is a small list of useful shortcuts for your BASH shell (terminal).
 
