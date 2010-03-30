@@ -1,0 +1,21 @@
+--- 
+title: Git Diff
+date:  25/09/2009
+tag:   Git
+
+A few handy Git diff commands.
+
+    git diff --summary master origin/master
+
+    git diff --stat master origin/master
+
+    git diff --numstat master origin/master
+
+    git diff --dirstat master origin/master
+
+    git diff --shortstat master origin/master
+
+    git diff --name-only master origin/master
+
+    git diff master origin/master
+

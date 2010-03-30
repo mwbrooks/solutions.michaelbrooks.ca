@@ -1,0 +1,18 @@
+--- 
+title: _fopen$Unix2003
+date:  30/10/2009
+tag:   C++
+
+Error Message
+=============
+Compile-time error related to `_fopen$Unix2003`.
+
+Solution (OS X)
+===============
+In my experience, this is related to using a library compiled with the 10.6 SDK on a project that is compiled with the 10.5 SDK.
+
+Recompile the library with the lower SDK or compile the projector with the higher SDK.
+
+Untested Concern
+================
+I am not sure if the platform matters (i386 or x64)

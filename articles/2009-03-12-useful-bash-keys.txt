@@ -1,11 +1,9 @@
 --- 
 title: Useful Bash Keys
-date: 12/03/2009
-tag: Terminal
+date:  12/03/2009
+tag:   Terminal
 
-Here is a small list of useful shortcuts for your BASH shell (terminal).
-
-I'm keeping the list short by only including shortcuts that I use daily.
+A small list of useful (everyday) shortcuts for your BASH shell (terminal).
 
 <script src="http://gist.github.com/329487.js?file=day-to-day-bash-keys.bash"></script>
 

@@ -1,0 +1,6 @@
+--- 
+title: Assertions 101
+date:  15/10/2009
+tag:   C++
+
+<script src="http://gist.github.com/348509.js"></script>

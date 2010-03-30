@@ -1,0 +1,6 @@
+--- 
+title: Tagging
+date:  04/12/2009
+tag:   Git
+
+<script src="http://gist.github.com/348315.js"></script>
