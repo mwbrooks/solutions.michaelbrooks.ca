@@ -129,7 +129,6 @@ article.post header {
 article.post header h1 {
   color:#2B1700;
   display:inline;
-  font-family:'Gill Sans';
   font-size:26px;
   font-weight:200;
   line-height:30px;
@@ -137,7 +136,6 @@ article.post header h1 {
 article.post header span.date {
   clear:both;
   color:#888888;
-  font-family:'Gill Sans';
   font-style:normal;
   font-weight:200;
   float:right;
@@ -152,7 +150,6 @@ article.post section.content h2,
 article.post section.content h3,
 article.post section.content h4 {
   color:#2B1700;
-  font-family:'Gill Sans';
   font-size:20px;
   font-weight:200;
   line-height:24px;
