@@ -18,8 +18,4 @@ There is a configuration file that allows you to increase the maximum bandwidth.
 `<eclipse_dir>\plugins\net.rim.ejde.componentpack4.6.1_4.6.1.36\components\MDS\config\rimpublic.property`
 
     [IPPP]
-    IPPP.push.listen.tcp.port=81
-    <strong>IPPP.connection.MaxNumberOfKBytesToSend=1024</strong>
-    IPPP.queue.flowcontrol.window.size=-1
-    IPPP.queue.flowcontrol.timeout=600000
-    IPPP.logging=true
+    IPPP.connection.MaxNumberOfKBytesToSend=1024
