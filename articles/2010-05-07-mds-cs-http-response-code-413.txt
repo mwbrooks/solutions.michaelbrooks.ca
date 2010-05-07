@@ -19,7 +19,7 @@ There is a configuration file that allows you to increase the maximum bandwidth.
 
     [IPPP]
     IPPP.push.listen.tcp.port=81
-    **IPPP.connection.MaxNumberOfKBytesToSend=1024**
+    <strong>IPPP.connection.MaxNumberOfKBytesToSend=1024</strong>
     IPPP.queue.flowcontrol.window.size=-1
     IPPP.queue.flowcontrol.timeout=600000
     IPPP.logging=true
