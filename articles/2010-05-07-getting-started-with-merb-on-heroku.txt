@@ -1,6 +1,0 @@
---- 
-title: Getting Started with Merb on Heroku
-date:  07/05/2010
-tag    Merb
-
-
