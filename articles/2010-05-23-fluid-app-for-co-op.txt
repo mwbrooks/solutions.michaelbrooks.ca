@@ -1,0 +1,6 @@
+--- 
+title: Fluid App for Co-op
+date:  23/05/2010
+tag:   Fluid
+
+[This GitHub repository](http://github.com/mwbrooks/co-op_fluid_userscript) that will add a badge to your Co-op Fluid application.
