@@ -29,6 +29,7 @@ toto = Toto::Server.new do
 
 	set :title, 'Solutions Log - Michael Brooks'
   set :date,  lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
+  set :url    'solutions.michaelbrooks.ca'
 end
 
 run toto
