@@ -1,6 +1,7 @@
 --- 
 title: Disable Multitasking on iOS 4.x
 date: 27/10/2010
+tag: Xcode iOS iPhone PhoneGap
 
 By default, when an application is closed on iOS 4.x, it will suspend and not terminate the application.
 
