@@ -143,22 +143,35 @@ article.post header span.date {
 }
 article.post section.content {
   color:#333333;
+  font-size:16px;
   margin:0px 10px;
 }
 article.post section.content h1,
 article.post section.content h2,
 article.post section.content h3,
 article.post section.content h4 {
-  color:#2B1700;
-  font-size:20px;
+  color:#000000;
   font-weight:200;
-  line-height:24px;
-  margin-top:25px;
   margin-left:-10px;
+  margin-top:1em;
+}
+article.post section.content h1 {
+  font-size:20px;
+  line-height:24px;
+}
+article.post section.content h2 {
+  font-size:18px;
+  line-height:22px;
+}
+article.post section.content h3,
+article.post section.content h4 {
+  font-size:16px;
+  line-height:20px;
 }
 article.post section.content code {
+  background-color:#EFEFEF;
   font-family: 'Deja Vu', 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
-  font-size:12px;
+  font-size:13px;
 }
 article.post section.content pre {
   padding:0px 20px;
