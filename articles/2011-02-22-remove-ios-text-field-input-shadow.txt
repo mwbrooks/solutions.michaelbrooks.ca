@@ -1,0 +1,16 @@
+--- 
+title: Remove iOS text field input shadow
+date:  22/02/2011
+tag:   iOS iPhone PhoneGap
+
+By default, the iOS WebView will add a top shadow to `<input />` elements.
+
+    input[type="text"] {
+        -webkit-appearance:none;
+    }
+
+You may want to apply a custom border, such as:
+
+    input[type="text"] {
+        border:1px solid black;
+    }
