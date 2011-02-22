@@ -5,12 +5,4 @@ tag:   iOS iPhone PhoneGap
 
 By default, the iOS WebView will add a top shadow to `<input />` elements.
 
-    input[type="text"] {
-        -webkit-appearance:none;
-    }
-
-You may want to apply a custom border, such as:
-
-    input[type="text"] {
-        border:1px solid black;
-    }
+<script src="https://gist.github.com/839216.js?file=style.css"></script>
