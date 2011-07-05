@@ -170,11 +170,20 @@ article.post section.content h4 {
 }
 article.post section.content code {
   background-color:#EFEFEF;
-  font-family: 'Deja Vu', 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
-  font-size:13px;
+  border-top:1px solid #CCCCCC;
+  border-bottom:1px solid #CCCCCC;
+  font-family: 'Monaco', Courier, mono;
+  font-size:12px;
 }
 article.post section.content pre {
-  padding:0px 20px;
+  background-color:#EFEFEF;
+  border:1px solid #CCCCCC;
+  padding:5px;
+  overflow:scroll;
+}
+article.post section.content pre code {
+    background:none;
+    border:none;
 }
 article.post section.content blockquote {
   font-style: italic;
@@ -186,6 +195,9 @@ article.post section.content .gist {
   font-size:11px;
   line-height:14px;
   margin:10px 0px;
+}
+article.post section.content img {
+    max-width:100%;
 }
 body > footer {
 }
